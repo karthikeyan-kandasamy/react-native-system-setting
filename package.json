@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "react-native-system-setting@1.7.2",
+      "/Users/priya/Documents/salon-mobile-app"
+    ]
+  ],
+  "_from": "react-native-system-setting@1.7.2",
+  "_id": "react-native-system-setting@1.7.2",
+  "_inBundle": false,
+  "_integrity": "sha512-9tnKl/9JTxa4dtSnr2Kz61crBpBbZkyAQP0fCtllrWGERHGamJWpImp6KaiI8APHU3aDHGRN6/q92Lh7xzEVfQ==",
+  "_location": "/react-native-system-setting",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-system-setting@1.7.2",
+    "name": "react-native-system-setting",
+    "escapedName": "react-native-system-setting",
+    "rawSpec": "1.7.2",
+    "saveSpec": null,
+    "fetchSpec": "1.7.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-system-setting/-/react-native-system-setting-1.7.2.tgz",
+  "_spec": "1.7.2",
+  "_where": "/Users/priya/Documents/salon-mobile-app",
+  "author": {
+    "name": "Ninty",
+    "email": "c19354837@hotmail.com",
+    "url": "https://github.com/c19354837"
+  },
+  "bugs": {
+    "url": "https://github.com/c19354837/react-native-system-setting/issues"
+  },
+  "description": "provide some system setting APIs. Volume, brightness, wifi, location, bluetooth, airplane...",
+  "homepage": "https://github.com/c19354837/react-native-system-setting",
+  "keywords": [
+    "react-native",
+    "system",
+    "setting",
+    "volume",
+    "wifi",
+    "brightness",
+    "location",
+    "bluetooth",
+    "airplane"
+  ],
+  "license": "MIT",
+  "main": "SystemSetting.js",
+  "name": "react-native-system-setting",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c19354837/react-native-system-setting.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.7.2"
+}

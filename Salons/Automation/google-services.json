@@ -1,0 +1,371 @@
+{
+  "project_info": {
+    "project_number": "292804661514",
+    "firebase_url": "https://salon-list-3.firebaseio.com",
+    "project_id": "salon-list-3",
+    "storage_bucket": "salon-list-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292804661514:android:c8ead7cd33858f11542af3",
+        "android_client_info": {
+          "package_name": "com.Automation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0i2LbSq87XVpeK0AHMaaxAXaglw_T4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292804661514-s0g6i6kci17t32svvc41dpkpd5mso132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idealWarren.SalonJacqui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292804661514:android:9f8e569c852f7d83542af3",
+        "android_client_info": {
+          "package_name": "com.CamiresHairLounge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0i2LbSq87XVpeK0AHMaaxAXaglw_T4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292804661514-s0g6i6kci17t32svvc41dpkpd5mso132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idealWarren.SalonJacqui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292804661514:android:51cc273280992b7c542af3",
+        "android_client_info": {
+          "package_name": "com.LionsRockBarbershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0i2LbSq87XVpeK0AHMaaxAXaglw_T4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292804661514-s0g6i6kci17t32svvc41dpkpd5mso132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idealWarren.SalonJacqui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292804661514:android:752f6a49b3e55a05542af3",
+        "android_client_info": {
+          "package_name": "com.QatarBeautySalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0i2LbSq87XVpeK0AHMaaxAXaglw_T4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292804661514-s0g6i6kci17t32svvc41dpkpd5mso132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idealWarren.SalonJacqui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292804661514:android:fde4e095e95b13b1542af3",
+        "android_client_info": {
+          "package_name": "com.RichHair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0i2LbSq87XVpeK0AHMaaxAXaglw_T4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292804661514-s0g6i6kci17t32svvc41dpkpd5mso132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idealWarren.SalonJacqui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292804661514:android:2bf5e41f6277c5c1542af3",
+        "android_client_info": {
+          "package_name": "com.SalonBlackAndWhite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0i2LbSq87XVpeK0AHMaaxAXaglw_T4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292804661514-s0g6i6kci17t32svvc41dpkpd5mso132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idealWarren.SalonJacqui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292804661514:android:ea8d3dd179a0157f542af3",
+        "android_client_info": {
+          "package_name": "com.SalonJacqui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0i2LbSq87XVpeK0AHMaaxAXaglw_T4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292804661514-s0g6i6kci17t32svvc41dpkpd5mso132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idealWarren.SalonJacqui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292804661514:android:1d9daa3943edd8fe542af3",
+        "android_client_info": {
+          "package_name": "com.SalonSankaAndNilu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0i2LbSq87XVpeK0AHMaaxAXaglw_T4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292804661514-s0g6i6kci17t32svvc41dpkpd5mso132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idealWarren.SalonJacqui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292804661514:android:897b08c5e3f764f6542af3",
+        "android_client_info": {
+          "package_name": "com.SoPrettyBeautySalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0i2LbSq87XVpeK0AHMaaxAXaglw_T4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292804661514-s0g6i6kci17t32svvc41dpkpd5mso132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idealWarren.SalonJacqui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292804661514:android:8c96017a595186d9542af3",
+        "android_client_info": {
+          "package_name": "com.royalsHairAndBarberShop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0i2LbSq87XVpeK0AHMaaxAXaglw_T4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292804661514-6nu2likhs93h932d8e7opq18uoub5mgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292804661514-s0g6i6kci17t32svvc41dpkpd5mso132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idealWarren.SalonJacqui"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

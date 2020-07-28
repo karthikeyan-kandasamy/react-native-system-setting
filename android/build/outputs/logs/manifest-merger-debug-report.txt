@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:5:22-71
+permission#android.permission.BLUETOOTH
+ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:7:5-89
+	android:label
+		ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:7:61-86
+	android:name
+		ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:7:17-60
+permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml:8:17-66
+uses-sdk
+INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
+INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
+INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
+INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
+		ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
+		ADDED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/priya/Documents/salon-mobile-app/node_modules/react-native-system-setting/android/src/main/AndroidManifest.xml
