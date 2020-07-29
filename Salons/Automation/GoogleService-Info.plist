@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>292804661514-ubbt8rfpa7rrb56j3eot9312tgo1dlgg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.292804661514-ubbt8rfpa7rrb56j3eot9312tgo1dlgg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCq8RvtQZXo8cemrUjOA9OpJVSepOaT2so</string>
+	<key>GCM_SENDER_ID</key>
+	<string>292804661514</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.idealWarren.Automation</string>
+	<key>PROJECT_ID</key>
+	<string>salon-list-3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>salon-list-3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:292804661514:ios:0bf28d760a2476f7542af3</string>
+	<key>DATABASE_URL</key>
+	<string>https://salon-list-3.firebaseio.com</string>
+</dict>
+</plist>
