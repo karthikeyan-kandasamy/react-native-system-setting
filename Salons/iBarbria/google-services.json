@@ -1,0 +1,655 @@
+{
+  "project_info": {
+    "project_number": "357222716016",
+    "firebase_url": "https://salon-deb68.firebaseio.com",
+    "project_id": "salon-deb68",
+    "storage_bucket": "salon-deb68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:2778609d20ff1ff8",
+        "android_client_info": {
+          "package_name": "com.ObsessionHairDesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-7b167futbkhj0qjl1cep1tq1a9gnmd74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ObsessionHairDesign",
+            "certificate_hash": "f4d22438e2a99693c4eff377c1d2251ff1fd2da0"
+          }
+        },
+        {
+          "client_id": "357222716016-b5ku8igvjuqu62t86focmfbijacm6jed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ObsessionHairDesign",
+            "certificate_hash": "455282640d07fbba4061e6d5d00e03778baa8a83"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:aa0f13958e52134c",
+        "android_client_info": {
+          "package_name": "com.azbarber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-5qpel390n5jtgqmtl7d3u53qg3kmfns3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azbarber",
+            "certificate_hash": "a81b399fa14b255e1c65a25f32c9602f0b0ece22"
+          }
+        },
+        {
+          "client_id": "357222716016-2himuscghh28ehbvg6qntad0bgtruecn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azbarber",
+            "certificate_hash": "e790981b0d44343a69529fb202bdf708be3748a9"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:52399131943dfd04",
+        "android_client_info": {
+          "package_name": "com.barberia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:539a1f53061aa05b",
+        "android_client_info": {
+          "package_name": "com.devihairandbeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-mkh1c9lg7s6ka5je0sij24vhkv7vcvcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devihairandbeauty",
+            "certificate_hash": "ef77c55c4e70b93a4a5f08e3224cf9dc7deeb3e2"
+          }
+        },
+        {
+          "client_id": "357222716016-vtfjtud8hibcukao88at9k7vocap50b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devihairandbeauty",
+            "certificate_hash": "4b9f1183acfcc7890da07ddaa9513880f23a0fb4"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:04f7d874f4d41912",
+        "android_client_info": {
+          "package_name": "com.dimplesbeautylounge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-tgrcg9kpl4kleh0mtal8h622t3mmc1v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dimplesbeautylounge",
+            "certificate_hash": "b62ce579f07ff75befdf5378574964269b68039f"
+          }
+        },
+        {
+          "client_id": "357222716016-f2vepjtl2mf161pi09d6nrlpl1nadpmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dimplesbeautylounge",
+            "certificate_hash": "ee4399fcfe4c931916a5def7fc86d200bf568680"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:96a8b58e1314a4d6",
+        "android_client_info": {
+          "package_name": "com.hairandcomb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-t9irk90904tueekpl09mp01ephmvqu33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hairandcomb",
+            "certificate_hash": "37d2734e9cf591ebcfa15ed830dd6bb5e4207087"
+          }
+        },
+        {
+          "client_id": "357222716016-r5ito4f93q969f21de8e61hjk8g36tsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hairandcomb",
+            "certificate_hash": "0325b1119b346aa1c4f92b0cd34b31aa1961c921"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:bfcc0c6db26fd188",
+        "android_client_info": {
+          "package_name": "com.hairmale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-rvfl8j3dvf8e27mtm4c4tpi5iofe49dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hairmale",
+            "certificate_hash": "1057aba372c789825554e517652908f8b9d8c6d7"
+          }
+        },
+        {
+          "client_id": "357222716016-adpsln4u0d2t2uhj70s4ds5vqvv4jdg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hairmale",
+            "certificate_hash": "9ec2a277ef6163296b0e98000ca2ae1a49af958a"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:c03253b8567de030",
+        "android_client_info": {
+          "package_name": "com.iBarbria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-pkf4t0249rfkpdqnrrc17979h2ugm30g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iBarbria",
+            "certificate_hash": "ef48e859e61246f83ba4f53dc3fdc8b9ee3b5b0b"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:44a6f56b8c4e4e2e",
+        "android_client_info": {
+          "package_name": "com.kadies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-rivi3qplud0h0f31vhr728m49e19jtih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kadies",
+            "certificate_hash": "d7927b56d0108b48f57d216c7909c2257c0bedbf"
+          }
+        },
+        {
+          "client_id": "357222716016-7mrtamnc4k8dl92572b6b0dut52ncn25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kadies",
+            "certificate_hash": "3a918e5a21f5b5bb5230fffc6f91ab1c63e38795"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:cd82d03212ce4793",
+        "android_client_info": {
+          "package_name": "com.megacutz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-2a1ophn9f2e5m0gdpuu1qr012uep93om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.megacutz",
+            "certificate_hash": "23d4b1cdf030736d4fa2a3390991629a02b56caa"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:805ae8d49234364f",
+        "android_client_info": {
+          "package_name": "com.thelittlebeautybar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-sagspvcqijqs7u7lo2j8k9e0duc6grme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thelittlebeautybar",
+            "certificate_hash": "98777901425f617e7c50323f48dddd77579af280"
+          }
+        },
+        {
+          "client_id": "357222716016-ermq87rjgdarloh086cv78pf3d7kajga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thelittlebeautybar",
+            "certificate_hash": "065abb02718c89653d7e58cb7d0fd40643bb5853"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:73046e58dd460a51",
+        "android_client_info": {
+          "package_name": "com.ymfab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-0ps16btd4iamdqqr4jatlflekqh073n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ymfab",
+            "certificate_hash": "bc7bd35267a916b1015415af57ea205908908607"
+          }
+        },
+        {
+          "client_id": "357222716016-0m2g6qh1ie24nh7qr91pkjb14fdmfnvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ymfab",
+            "certificate_hash": "e1a530d12f949ec17dc90e3024a21815b445108a"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357222716016:android:2b58f0c9a750e61f",
+        "android_client_info": {
+          "package_name": "com.zionbarbers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357222716016-mb25e52mkdvn2r7atuljmv1n95lqm853.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zionbarbers",
+            "certificate_hash": "d6c5d543d2b9ed5929b27ca8ccdd9c3a4ac7bbc8"
+          }
+        },
+        {
+          "client_id": "357222716016-5gh80a9km3qrclop3u4747shrttl2s89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zionbarbers",
+            "certificate_hash": "01136feb55c0abf44426c8abde1eb17c4ed06942"
+          }
+        },
+        {
+          "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBj02oHOb0Kz2TgAgEkbpOp0wjBqBVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357222716016-qg4cpfg56f5l2la6kci1uadifs9ukk46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357222716016-1msocba1nadm4j96fde22jjpoc3e5ee1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactNative.ObsessionHairDesign"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
