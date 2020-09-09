@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>460829951129-g6emdjahkuesefnmac7fnvdn12kai4sv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.460829951129-g6emdjahkuesefnmac7fnvdn12kai4sv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>460829951129-bmjpneef28v8h8acd7422agagii6v6i3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgy9IxIzm8JKM9roeMYKMxDm_vHMEzXJY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>460829951129</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.idealWarren.BarberiaSaloon</string>
+	<key>PROJECT_ID</key>
+	<string>salon-list-2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>salon-list-2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:460829951129:ios:44ee2d7725f5c2a878a408</string>
+	<key>DATABASE_URL</key>
+	<string>https://salon-list-2.firebaseio.com</string>
+</dict>
+</plist>
